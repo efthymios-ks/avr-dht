@@ -1,0 +1,23 @@
+build/
+*.elf
+*.hex
+*.o
+*.d
+*.map
+*.lss
+*.srec
+*.eep
+
+# Atmel/Microchip Studio
+Debug/
+Release/
+*.atsln
+*.cproj
+*.componentinfo.xml
+.vs/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~

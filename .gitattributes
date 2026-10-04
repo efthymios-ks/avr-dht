@@ -1,0 +1,15 @@
+* text=auto eol=lf
+
+*.ps1   text eol=lf
+*.psm1  text eol=lf
+*.c     text eol=lf
+*.h     text eol=lf
+*.md    text eol=lf
+*.yml   text eol=lf
+
+*.png   binary
+*.jpg   binary
+*.pdf   binary
+*.sim1  binary
+*.hex   binary
+*.elf   binary
